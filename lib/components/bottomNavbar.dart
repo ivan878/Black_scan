@@ -1,7 +1,7 @@
+import 'package:black_scan/screens/home.dart';
+import 'package:black_scan/screens/recherche.dart';
+import 'package:black_scan/screens/videos.dart';
 import 'package:flutter/material.dart';
-import 'package:scan37/screens/home.dart';
-import 'package:scan37/screens/recherche.dart';
-import 'package:scan37/screens/videos.dart';
 
 import '../screens/profil.dart';
 

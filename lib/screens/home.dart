@@ -1,7 +1,7 @@
+import 'package:black_scan/screens/details.dart';
+import 'package:black_scan/screens/details_2.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:scan37/screens/details.dart';
-import 'package:scan37/screens/details_2.dart';
 
 import '../components/bottomNavbar.dart';
 
