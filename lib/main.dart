@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:scan37/components/bottomNavbar.dart';
+
+import 'components/bottomNavbar.dart';
 
 void main() {
   runApp(const MyApp());
